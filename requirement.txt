@@ -1,0 +1,27 @@
+# System Dependencies
+sudo
+golang
+snapd
+
+# Required Tools
+amass
+assetfinder
+subfinder
+httpx
+sqlmap
+
+# Installation Steps (Optional)
+# 1. Install Go (if not already installed)
+# sudo apt update && sudo apt install -y golang
+
+# 2. Install Snap and Amass
+# sudo apt install -y snapd
+# sudo snap install amass
+
+# 3. Install Go-based tools
+# go install github.com/tomnomnom/assetfinder@latest
+# go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+# go install github.com/projectdiscovery/httpx/cmd/httpx@latest
+
+# 4. Install Sqlmap
+# sudo apt install -y sqlmap
