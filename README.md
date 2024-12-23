@@ -25,10 +25,6 @@ To get started, follow these steps to clone and set up the tool:
    git clone https://github.com/yourusername/SubVulnScanner.git
    cd SubVulnScanner
 
-Run the requriment.sh:
-
-    chmod +x requriment.sh && bash requriment.sh
-
 Make the script executable:
 
     chmod +x SubVulnScanner.sh
